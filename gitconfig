@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = sejohnson2020@outlook.com
+	name = Sam Johnson
